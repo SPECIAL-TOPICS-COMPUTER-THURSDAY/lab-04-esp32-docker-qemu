@@ -50,6 +50,7 @@ idf.py set-target esp32
 # Build โปรแกรม
 idf.py build
 ```
+ทำได้แค่ถึงขั้นตอนที่4ค่าา
 
 ### 5. ทดสอบด้วย QEMU
 ```bash
