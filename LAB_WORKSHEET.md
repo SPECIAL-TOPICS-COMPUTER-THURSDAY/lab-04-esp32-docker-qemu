@@ -363,6 +363,9 @@ idf.py set-target esp32
 idf.py menuconfig
 ```
 
+![คำอธิบายรูป](./images/<img width="1308" height="488" alt="Screenshot 2025-07-24 114306" src="https://github.com/user-attachments/assets/aaa9509b-d6f2-42e1-8d78-d110ea1388e8" />
+)
+
 **การทดสอบ:** เมนูการตั้งค่าควรเปิดขึ้นมา สามารถออกได้โดยกด Q และ Y
 
 ### ขั้นตอนที่ 10: Build โปรแกรม
