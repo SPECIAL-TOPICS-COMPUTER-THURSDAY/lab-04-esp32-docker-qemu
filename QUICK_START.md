@@ -41,6 +41,15 @@ cd /project
 idf.py create-project hello_world
 cd hello_world
 
+* ไม่สามารถทำในข้อ 4  ต่อได้ 
+
+<img width="1892" height="1032" alt="image" src="https://github.com/user-attachments/assets/b4a38431-8292-4672-8c60-f771b8bf6034" />
+<img width="1557" height="845" alt="image" src="https://github.com/user-attachments/assets/b11ee5c8-768d-4acd-a4b3-1f3983ab905d" />
+
+
+
+
+
 # คัดลอกโค้ดตัวอย่าง
 cp /project/examples/hello_world_main.c main/hello_world_main.c
 
